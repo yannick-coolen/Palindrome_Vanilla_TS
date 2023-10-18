@@ -10,4 +10,4 @@ Third to run the tests you can use the npm run test.
 
 If it is desired to see the result on page inside the browser, you should run the npm run dev
 
-The default of vite.js local port is: localhost:5173/
+The default of vite.js local port is: localhost:5173
